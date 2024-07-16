@@ -12,7 +12,7 @@ HTML5 - CSS3
 
 1 . Ouvrir le terminal
 
-2 . Clonez le repository => _git clone 
+2 . Clonez le repository => _git clone https://github.com/Eliaslvr/booki.github.io.git
 
 
 ## Lien du site :
